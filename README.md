@@ -39,5 +39,5 @@ Output:
 
 ## Thanks for the code
 
-[Techie Delight](https://www.techiedelight.com/pretty-print-json-file-python/)
-[Stackoverflow](https://stackoverflow.com/a/40585572/12694869)
+- [Techie Delight](https://www.techiedelight.com/pretty-print-json-file-python/)
+- [Stackoverflow](https://stackoverflow.com/a/40585572/12694869)
